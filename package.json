@@ -1,6 +1,6 @@
 {
   "name": "stdjs_node",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "stdjs for nodejs",
   "main": "std.min.js",
   "scripts": {
